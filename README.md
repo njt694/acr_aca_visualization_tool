@@ -81,3 +81,6 @@ Uses modified code from Clinker:
 clinker & clustermap.js: Automatic generation of gene cluster comparison figures.
 Gilchrist, C.L.M., Chooi, Y.-H., 2020.
 Bioinformatics. doi: https://doi.org/10.1093/bioinformatics/btab007
+
+The python library disjoint-set will need to be installed for clinker to run properly. This can be done from the command line with: 
+pip install disjoint-set
