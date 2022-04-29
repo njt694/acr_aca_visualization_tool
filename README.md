@@ -21,7 +21,8 @@ Scripts with hard-coded paths:
     update_ncbi_bacterial_genomes.sh
 
 
-Original File Hierarchy (the files provided make up the contents of /birl2/data/Acr/clean/scripts/ )
+Original File Hierarchy (the files provided make up the contents of /birl2/data/Acr/clean/scripts/ ):
+
     /birl2/data/Acr
         /clean/
             cooccurrences/
