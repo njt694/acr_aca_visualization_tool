@@ -75,3 +75,9 @@ Original File Hierarchy (the files provided make up the contents of /birl2/data/
                     in.gbff
                     the.gbff
                     database.gbff
+                    
+                   
+Uses modified code from Clinker:
+clinker & clustermap.js: Automatic generation of gene cluster comparison figures.
+Gilchrist, C.L.M., Chooi, Y.-H., 2020.
+Bioinformatics. doi: https://doi.org/10.1093/bioinformatics/btab007
